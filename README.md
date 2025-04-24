@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Johan Hernández
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Johan 
 =======================================================================================================================================
 
-Jr. Software Developer & Cybersecurity Enthusiast
+Jr. Software Developer & Future DevOps engineer
 -------------------------------------------------
 
 I've been related with computer things since i'm a child, i started learning 3D modeling in blender to make some mods for video games when i was 14 y/o, that brought me closer to coding, that made my way to my present, LOVE the code.
